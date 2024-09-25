@@ -1,0 +1,15 @@
+Date: 22/9/2024
+Time: 22:54
+Phone Number: +51904306242
+Message: Hola espero que te guste la idea de automatizar las cosas la {IA} es el futuro (Mensaje 1)
+--------------------
+Date: 22/9/2024
+Time: 23:0
+Phone Number: +51904306242
+Message: Hola, espero que te guste la idea de automatizar las cosas, la {IA} es el futuro. (Mensaje 1)
+--------------------
+Date: 22/9/2024
+Time: 23:2
+Phone Number: +51904306242
+Message: Hola, espero que te guste la idea de automatizar las cosas, la {IA} es el futuro. (Mensaje 2)
+--------------------
